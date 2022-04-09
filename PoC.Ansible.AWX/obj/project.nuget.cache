@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPwfOBhxwU2zEYGTzHCZXYyHzd9PcYqFCje3+FCEyXywFllrYpWGFU3Ge9n6oir22tpr93380hHTfaLE0+VxXw==",
+  "success": true,
+  "projectFilePath": "D:\\DevApp\\PoC.Ansible.AWX\\PoC.Ansible.AWX\\PoC.Ansible.AWX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.22\\microsoft.aspnetcore.nodeservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.22\\microsoft.aspnetcore.spaservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.22\\microsoft.aspnetcore.spaservices.extensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.22\\microsoft.extensions.fileproviders.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.22\\microsoft.extensions.fileproviders.physical.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.22\\microsoft.extensions.filesystemglobbing.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.22\\microsoft.extensions.logging.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.22\\microsoft.extensions.logging.console.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.22\\microsoft.extensions.options.configurationextensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\restsharp\\107.2.1\\restsharp.107.2.1.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

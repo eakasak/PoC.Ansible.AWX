@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i5lL0RuVwvZUIvD+2yRRCx/VfHNACJi3BvSR659M+ow=",
+  "Source": "PoC.Ansible.AWX",
+  "BasePath": "_content/PoC.Ansible.AWX",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

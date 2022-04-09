@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PoC.Ansible.AWX
+build_property.ProjectDir = D:\DevApp\PoC.Ansible.AWX\PoC.Ansible.AWX\
